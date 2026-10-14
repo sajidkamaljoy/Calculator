@@ -1,6 +1,8 @@
 # Calculator
 [![CI](https://github.com/sajidkamaljoy/Calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/sajidkamaljoy/Calculator/actions/workflows/ci.yml)
 
+> **Note:** this project was originally developed under my earlier GitHub account, [sajid43677/Calculator](https://github.com/sajid43677/Calculator), and was moved to this account in October 2026.
+
 A Windows Forms (.NET Framework 4.7.2) project created as a starting point for a desktop calculator.
 
 ## Current state
